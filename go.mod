@@ -1,4 +1,4 @@
-module prencrypt
+module github.com/hongyuefan/prencrypt
 
 go 1.14
 
